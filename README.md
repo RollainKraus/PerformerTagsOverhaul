@@ -22,22 +22,22 @@ Display Mode makes performer tags much more legible and organized, useful if you
 
 <h2>Preview</h2>
 <p>
-  <img src="/plugins/PerformerTagsOverhaul/images/PerformerTagsOverhaulPreview.gif" alt="PerformerTagsOverhaul preview" width="600">
+  <img src="/plugins/images/PerformerTagsOverhaulPreview.gif" alt="PerformerTagsOverhaul preview" width="600">
 </p>
 
 <h2>Text Display Mode Preview</h2>
 <p>
-  <img src="/plugins/PerformerTagsOverhaul/images/PerformerTagsSubGroupsPreviewTextAndImageMode.png" alt="PerformerTagsOverhaul search" width="600">
+  <img src="/plugins/images/PerformerTagsSubGroupsPreviewTextAndImageMode.png" alt="PerformerTagsOverhaul search" width="600">
 </p>
 
 <h2>Text and Image Display Mode Preview</h2>
 <p>
-  <img src="/plugins/PerformerTagsOverhaul/images/PerformerTagsSubGroupsPreviewTextMode.png" alt="PerformerTagsOverhaul search" width="600">
+  <img src="/plugins/images/PerformerTagsSubGroupsPreviewTextMode.png" alt="PerformerTagsOverhaul search" width="600">
 </p>
 
 <h2>Settings Preview</h2>
 <p>
-  <img src="/plugins/PerformerTagsOverhaul/images/PerformerTagsOverhaulSettingsPreview.png" alt="PerformerTagsOverhaul settings" width="600">
+  <img src="/plugins/images/PerformerTagsOverhaulSettingsPreview.png" alt="PerformerTagsOverhaul settings" width="600">
 </p>
 
 Made with AI
